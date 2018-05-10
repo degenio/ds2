@@ -1,0 +1,6 @@
+Prediction des prix de billets d'avion
+https://medium.com/@neal_lathia/reading-the-machine-learning-behind-farecast-ca67cbd48665
+
+
+Prediction de la meteo sur 3 jours
+http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/
